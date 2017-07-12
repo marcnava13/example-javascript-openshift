@@ -1,0 +1,19 @@
+{
+  "name": "example-javascript-openshift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcnava13/example-javascript-openshift.git"
+  },
+  "author": "Marcos Navarro Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcnava13/example-javascript-openshift/issues"
+  },
+  "homepage": "https://github.com/marcnava13/example-javascript-openshift#readme"
+}
